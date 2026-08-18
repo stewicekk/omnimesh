@@ -1,0 +1,13 @@
+{
+  "server": "omnimcp",
+  "version": "1.0.0",
+  "transport": [
+    "stdio"
+  ],
+  "notes": "Standalone stdlib MCP-compatible JSON-RPC runtime. External model workers remain optional.",
+  "tool_count": 0,
+  "security": {
+    "unrestricted_shell": false,
+    "path_policy": "caller is responsible for project-scoped path policy in host integration"
+  }
+}

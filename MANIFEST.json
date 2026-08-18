@@ -1,0 +1,36 @@
+{
+  "source_file": "Vložený markdown(1).md",
+  "source_sha256": "20bd90c50bd26e41414e144a49a07082ba2f144749f878941f8efa22d5417bed",
+  "source_lines": 3298,
+  "master_prompt": "prompts/OMNIMESH_MASTER_PROMPT_FINAL.md",
+  "agents": 22,
+  "agent_names": [
+    "ReferenceAgent",
+    "VisionAgent",
+    "SegmentationAgent",
+    "GeometryAgent",
+    "PartAgent",
+    "MaterialAgent",
+    "TextureAgent",
+    "TopologyAgent",
+    "UVAgent",
+    "RetopoAgent",
+    "RigAgent",
+    "AnimationAgent",
+    "LODAgent",
+    "OptimizationAgent",
+    "GameReadyAgent",
+    "CriticAgent",
+    "RepairAgent",
+    "LicenseAgent",
+    "ResourceAgent",
+    "PipelineAgent",
+    "MemoryAgent",
+    "ResearchAgent"
+  ],
+  "mcp_entry": "omnimcp.server",
+  "mcp_transport": [
+    "stdio"
+  ],
+  "generated_at": "2026-08-18"
+}
